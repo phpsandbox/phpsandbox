@@ -1,0 +1,9 @@
+---
+blank_issues_enabled: true
+contact_links:
+  - about: "Get instant support from the Fig Community Discord"
+    name: "👋 Say Hi on Discord"
+    url: "https://discord.gg/w46CNFP"
+  - about: "Get support from the PHPsandbox team at hi@phpsandbox.io"
+    name: "💌 Send an Email"
+    url: "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hi@phpsandbox.io"
