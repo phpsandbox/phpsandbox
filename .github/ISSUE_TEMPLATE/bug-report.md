@@ -14,7 +14,7 @@ Provide a detailed description of the bug and your notebook link (if you can).
 
 1. Create standard notebook '...'
 2. Click on '....'
-3. See error
+3. See an error ...
 
 
 ### **Expected results**
@@ -29,4 +29,4 @@ You can add screenshots or screen records of the issue.
 
 
 **More notes or context or questions**
-You can put anyother things you will like us to know here.
+You can put any other things you will like us to know here.
